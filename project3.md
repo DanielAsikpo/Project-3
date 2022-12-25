@@ -1,4 +1,4 @@
-# **MERN STACK IMPLEMENTATION**
+# **MERN STACK IMPLEMENTATION ON AWS**
 
 We are going to create a **To-Do application** that creates a to-do list
 
